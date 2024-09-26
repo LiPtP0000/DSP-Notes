@@ -2,4 +2,4 @@
 Markdown Notes for Southeast University "Digital Signal Processing" Course
 Require `Mathjax`, `Katex`,etc. to explain latex sequences in the markdown files.
 
-All the notes have been published to [LiPtP's Blog](liptp0000.github.io).
+All the notes have been published to [LiPtP's Blog](https://liptp0000.github.io).
